@@ -7,6 +7,11 @@ I am Deon Maas, currently working at FreshportalSoftware (https://freshportal.co
 [![Instagram Badge](https://img.shields.io/badge/-diondaze-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/diondaze/)](https://instagram.com/diondaze)
 [![Gmail Badge](https://img.shields.io/badge/-diondaze@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diondaze@gmail.com)](mailto:diondaze@gmail.com)
 
+## Spare time
+
+![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-black?style=flat-square&logo=ableton-live) In my spare time I like to create music using Ableton. you can check out some of my tracks here: (https://www.soundcloud.com/diondaze/)
+
+
 ## ⚡ Technologies
 
 ![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
