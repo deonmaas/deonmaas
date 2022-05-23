@@ -1,7 +1,8 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Deon Maas, currently working at FreshportalSoftware (https://freshportal.com/). I am a tech enthusiast and visionair. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+I am Deon Maas, currently working at [![My job](https://img.shields.io/badge/My%20job-freshportal-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.freshportal.com/). I am a tech enthusiast and visionair. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-deonmaas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deonmaas/)](https://www.linkedin.com/in/deonmaas/)
 [![Instagram Badge](https://img.shields.io/badge/-diondaze-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/diondaze/)](https://instagram.com/diondaze)
