@@ -34,5 +34,3 @@ Besides working on some projects and learning typescript at the moment I also li
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=deonmaas&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deonmaas&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deonmaas)
