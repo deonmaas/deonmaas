@@ -9,7 +9,11 @@ I am Deon Maas, currently working at FreshportalSoftware (https://freshportal.co
 
 ## Spare time
 
-![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-black?style=flat-square&logo=ableton-live) In my spare time I like to create music using Ableton. you can check out some of my tracks here: 
+![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-black?style=flat-square&logo=ableton-live) 
+Besides working on some projects and learning typescript at the moment I also like to create music.
+
+### You can check out some of my tracks here: 
+
 [![Soundcloud](https://img.shields.io/badge/-Soundcloud-black?style=flat-square&logo=soundcloud)](https://www.soundcloud.com/accordeon/)
 
 
