@@ -22,6 +22,6 @@ I am Deon Maas, currently working at FreshportalSoftware (https://freshportal.co
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=deonmaas&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deonmaas&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deonmaas)
