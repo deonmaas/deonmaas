@@ -15,7 +15,7 @@ Besides working on some projects and learning typescript at the moment I also li
 
 ### You can check out some of my tracks here: 
 
-[![Soundcloud](https://img.shields.io/badge/-Soundcloud-black?style=flat-square&logo=soundcloud)](https://www.soundcloud.com/accordeon/)
+[![Soundcloud](https://img.shields.io/badge/-Soundcloud-black?style=flat-square&logo=soundcloud)](https://www.soundcloud.com/dion-daze/)
 
 
 ## ⚡ Technologies
