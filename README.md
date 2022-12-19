@@ -4,7 +4,7 @@
 
 I am Deon Maas, currently working at [![My job](https://img.shields.io/badge/Freshportal.com-success?style=flat-square)](https://www.freshportal.com/) I am a tech enthusiast and visionair. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-deonmaas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deonmaas/)]([https://www.linkedin.com/in/deonmaas/](https://www.linkedin.com/in/deon-maas-09186b2b/))
+[![Linkedin Badge](https://img.shields.io/badge/-deonmaas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deonmaas/)](https://www.linkedin.com/in/deon-maas-09186b2b/)
 [![Instagram Badge](https://img.shields.io/badge/-diondaze-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/diondaze/)](https://instagram.com/diondaze)
 [![Gmail Badge](https://img.shields.io/badge/-diondaze@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diondaze@gmail.com)](mailto:diondaze@gmail.com)
 
